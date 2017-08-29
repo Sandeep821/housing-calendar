@@ -1,0 +1,21 @@
+{
+  "name": "housing-events",
+  "description": "housing-events for housing app",
+  "main": "./client/calendar.js",
+  "keywords": [
+    "housing",
+    "events"
+  ],
+  "authors": [
+    "ssoni"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Sandeep821/housing-calendar/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
